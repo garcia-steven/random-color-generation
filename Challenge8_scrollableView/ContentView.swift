@@ -25,6 +25,7 @@ struct ContentView: View {
                         ))
                         .frame(height: pow(1.1, CGFloat(index)))
                 }
+                 
             }
         }
     }
